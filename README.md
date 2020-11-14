@@ -22,3 +22,5 @@ Automation allows players to perform far beyond what an unassisted player could 
 As this unsupported version exposes the game's internals it means that it is possible for the script / automation to cause bugs or unintended side effects as it accesses information and actions that may not be directly available to a player. Before reporting any bugs to Demagorddon, please reproduce them on the original version of the game as this scripting version is NOT SUPPORTED IN ANY WAY by Demagorddon.
 
 Use at your own risk.
+
+But faster.
